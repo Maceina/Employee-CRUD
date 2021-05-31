@@ -1,2 +1,1 @@
-# Simple-CRUD-app
-Simple CRUD app with Php and MySql.
+# Basic React CRUD App
